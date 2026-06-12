@@ -196,7 +196,7 @@ The original GitHub repository includes `windows7_dataset.csv` and `Untitled-1.i
 
 ## 👤 Author
 
-**Mohammad Ali Mousavi Reineh**  
+**Mohammadali Mousavireineh**  
 GitHub: [@mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh)
 
 ---
