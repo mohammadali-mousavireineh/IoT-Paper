@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Data and outputs
+data/processed/*
+reports/*.joblib
+reports/*.pkl
+reports/*.json
+reports/figures/*.png
+reports/predictions.csv
+
+# Keep docs
+!data/README.md
+!reports/figures/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db

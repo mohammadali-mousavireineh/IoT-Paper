@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "IoT-Paper: Machine Learning for IoT / Windows Dataset Classification"
+message: "If you use this project, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Mousavi Reineh"
+    given-names: "Mohammad Ali"
+repository-code: "https://github.com/mohammadali-mousavireineh/IoT-Paper"
+version: "0.1.0"
+date-released: "2026-06-12"
+license: "MIT"
